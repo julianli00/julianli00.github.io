@@ -5,14 +5,14 @@ order: 1
 
 ![Yuchen Li](/assets/img/yuchen-li.jpg){: width="220" height="220" .left }
 
-Hi, I am **Yuchen Li**, and I also go by **Julian**. I am a data scientist with a
-background in statistics and a focus on natural language processing, machine
-learning, and applied analytics.
+Hi, I am **Yuchen Li**, and I also go by **Julian**. I am an **Applied Scientist
+at Microsoft** with a background in statistics, data science, and computational
+linguistics.
 
-I enjoy turning research ideas and complex datasets into reliable,
-understandable tools. My work includes Chinese grammatical error correction,
-multilingual text analysis, retrieval-augmented generation, experimentation,
-and interactive data products.
+I enjoy turning research ideas and complex datasets into reliable systems. My
+work includes large-scale content ingestion and search, distributed data
+processing, generative AI, Chinese grammatical error correction, multilingual
+text analysis, experimentation, and interactive data products.
 
 My technical toolkit includes **Python, R, SQL, machine learning, deep learning,
 statistical modeling, A/B testing, and data visualization**.
@@ -28,6 +28,5 @@ statistical modeling, A/B testing, and data visualization**.
 
 - [GitHub](https://github.com/julianli00)
 - [LinkedIn](https://www.linkedin.com/in/yuchen-li-julian/)
-- [Email](mailto:yuchenli.cn@gmail.com)
 
 <br clear="left">
