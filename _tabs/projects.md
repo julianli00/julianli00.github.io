@@ -1,7 +1,15 @@
 ---
+title: Projects
 icon: fas fa-code
-order: 3
+order: 2
 ---
+
+## Papers / Research
+
+### Chinese Word Boundary Recovery through Iterative Edit Operations
+
+Research on recovering word boundaries in non-standard Chinese text to support
+downstream annotation and evaluation.
 
 ## Featured Projects
 

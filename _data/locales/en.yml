@@ -1,0 +1,4 @@
+# Additional navigation labels, merged with the theme's English locale.
+tabs:
+  posts: Posts
+  projects: Projects

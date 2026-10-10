@@ -1,12 +1,11 @@
 ---
-icon: fas fa-file-lines
-order: 2
+title: Resume reference
 ---
 
 ## Summary
 
-Applied Scientist at Microsoft with a background in data science, computational
-linguistics, and statistics. Experienced in large-scale content ingestion,
+Software Engineer at Microsoft with a background in data science, computational
+linguistics, and mathematics. Experienced in large-scale content ingestion,
 search, distributed data processing, generative AI, machine learning,
 experimentation, causal inference, and applied NLP research.
 
@@ -14,7 +13,7 @@ experimentation, causal inference, and applied NLP research.
 
 ### Microsoft
 
-**Applied Scientist · Permanent Full-time**
+**Software Engineer · Permanent Full-time**
 
 August 2026 — Present · On-site
 
@@ -67,7 +66,7 @@ September 2024 — June 2025
 
 ### Tongji University
 
-**Bachelor of Science, Statistics**
+**Bachelor of Science, Mathematics**
 
 September 2019 — July 2023
 
