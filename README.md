@@ -1,13 +1,13 @@
-# Yuchen (Julian) Li — Personal Blog
+# Julian Li — Personal Blog
 
 Source for the personal blog at <https://julianli00.github.io/>, built with the open-source
 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) Jekyll theme.
 
 ## Content
 
-- Home: a short profile, education, interests, and links
-- Posts: notes on software, research, and things I am learning
-- Projects: selected projects and research
+- Home: a short introduction, education, interests, and a GitHub link
+- Posts: blog posts (currently empty)
+- Projects: open-source project write-ups (currently empty)
 
 ## Local development
 

@@ -103,5 +103,4 @@ visualization, and error analysis
 
 ## Profiles
 
-[GitHub](https://github.com/julianli00) ·
-[LinkedIn](https://www.linkedin.com/in/yuchen-li-julian/)
+[GitHub](https://github.com/julianli00)

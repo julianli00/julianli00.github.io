@@ -1,15 +1,16 @@
 ---
 layout: home
-title: About me
+title: Hi, I'm Julian Li
 ---
 
-Hi, I'm **Yuchen (Julian) Li**, a **Software Engineer at Microsoft**.
-I studied **Data Science at the University of British Columbia** and
-**Mathematics at Tongji University**.
+I'm a software engineer at Microsoft. I studied data science at the
+University of British Columbia and mathematics at Tongji University.
 
-I'm interested in natural language processing, machine learning, and data
-systems. I write about what I'm learning in [Posts]({{ '/posts/' | relative_url }}),
-and collect my projects and research in [Projects]({{ '/projects/' | relative_url }}).
+I'm interested in natural language processing, software engineering,
+machine learning, and full-stack development.
 
-Find me on [GitHub](https://github.com/julianli00) or
-[LinkedIn](https://www.linkedin.com/in/yuchen-li-julian/).
+I'll use this space to share what I learn through
+[blog posts]({{ '/posts/' | relative_url }}) and write about my
+[open-source projects]({{ '/projects/' | relative_url }}).
+
+Find me on [GitHub](https://github.com/julianli00).
